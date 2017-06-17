@@ -1,2 +1,3 @@
 # Python-Practices
-Python practices repository, a small program every day.
+Python practices repository, learning a small program every day.
+
